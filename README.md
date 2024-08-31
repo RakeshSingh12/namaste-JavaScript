@@ -1,3 +1,36 @@
+# Season 1 :
+
+1. [Episode 1 : Execution Context](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-01.md)
+2. [Episode 2 : How JS is executed & Call Stack](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-02.md)
+3. [Episode 3 : Hoisting in JavaScript (variables & functions)](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-03.md)
+4. [Episode 4 : Functions and Variable Environments](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-04.md)
+5. [Episode 5 : Shortest JS Program, window & this keyword](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-05.md)
+6. [Episode 6 : undefined vs not defined in JS](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-06.md)
+7. [Episode 7 : The Scope Chain, Scope & Lexical Environment](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-07.md)
+8. [Episode 8 : let & const in JS, Temporal Dead Zone](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-08.md)
+9. [Episode 9 : Block Scope & Shadowing in JS](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-09.md)
+10. [Episode 10 : Closure in JS](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-10.md)
+11 [Episode 11 : setTimeout + Closures Interview Question](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-11.md)
+12. [Episode 12 : Famous Interview Questions ft. Closures](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-12.md)
+13. [Episode 13 : First Class Functions ft. Anonymous Functions](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-13.md)
+14. [Episode 14 : Callback Functions in JS ft. Event Listeners](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-14.md)
+15. [Episode 15 : Asynchronous JavaScript & EVENT LOOP from scratch](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-15.md)
+16. [Episode 16 : JS Engine Exposed, Google's V8 Architecture](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-16.md)
+17. [Episode 17 : Trust issues with setTimeout()](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-17.md)
+18. [Episode 18 : Higher-Order Functions ft. Functional Programming](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-18.md)
+19. [Episode 19 : map, filter & reduce](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-19.md)
+
+ # Season 2 :
+1. [Episode 20 : Callback Hell](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-2/lecture-01.md)
+2. [Episode 21 : Promises](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-2/lecture-02.md)
+3. [Episode 22 : Creating a Promise, Chaining & Error Handling](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-2/lecture-03.md)
+4. [Episode 23 : async await](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-2/lecture-04.md)
+5. [Episode 24 : Promise APIs (all, allSettled, race, any) + Interview Questions 🔥](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-2/lecture-05.md)
+6. [Episode 25 : this keyword in JavaScript](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-2/lecture-06.md)
+
+
+
+
 # Namaste JavaScript
 
 ## ```-> Global Execution Context```
