@@ -10,7 +10,7 @@
 8. [Episode 8 : let & const in JS, Temporal Dead Zone](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-08.md)
 9. [Episode 9 : Block Scope & Shadowing in JS](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-09.md)
 10. [Episode 10 : Closure in JS](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-10.md)
-11 [Episode 11 : setTimeout + Closures Interview Question](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-11.md)
+11. [Episode 11 : setTimeout + Closures Interview Question](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-11.md)
 12. [Episode 12 : Famous Interview Questions ft. Closures](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-12.md)
 13. [Episode 13 : First Class Functions ft. Anonymous Functions](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-13.md)
 14. [Episode 14 : Callback Functions in JS ft. Event Listeners](https://github.com/RakeshSingh12/namaste-JavaScript/blob/main/notes/season-1/lecture-14.md)
